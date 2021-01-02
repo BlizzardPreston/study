@@ -9,6 +9,9 @@
     <packaging>pom</packaging>
     <version>2.6</version>
 
+
+
+
     <modules>
         <module>eladmin-common</module>
         <module>eladmin-logging</module>
